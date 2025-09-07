@@ -1,7 +1,7 @@
 # AOMEI Backupper – Complete Backup and Cloning Software
 
 <p align="center">
-  <img src="https://software.unibague.edu.co/images/stories/virtuemart/product/68886_880x390.jpg" alt="AOMEI Backupper Logo"/>
+  <img src="https://shopdd.net/img/webp/AOMEI_Backupper_000.webp" alt="AOMEI Backupper Logo"/>
 </p>
 
 <p align="center">
